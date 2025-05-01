@@ -1,7 +1,7 @@
 # MoodMeal - Capstone Project
 
 ## 👤 Student Name: Nikhil  
-## 💥 Squad: SXX (Replace with your squad number)  
+## 💥 Squad: S85 
 
 ---
 
@@ -118,16 +118,6 @@ This app aims to make food ordering fast, emotional, and super satisfying.
 - Added `README.md` with complete project brief & plan  
 - Committed & pushed changes  
 - Created PR and requested CodiumAI review  
-
----
-
-> PR Link: [Insert your PR link here after you create it]  
-> Codium Review Requested: ✅ via `/review` comment  
-
----
-
-## 🎥 Recorded Video Link
-[Insert your Google Meet recording link here with proper access]
 
 ---
 
