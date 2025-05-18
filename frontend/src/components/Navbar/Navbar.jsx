@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
 
-    const [menu, setMenu] = useState("contact-us");
+    const [menu, setMenu] = useState("home");
   return (
     <div className='navbar'>
         <img src={assets.logo} alt="MoodMeal Logo" className="logo" />
