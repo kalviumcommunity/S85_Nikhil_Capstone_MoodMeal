@@ -1,3 +1,4 @@
+// This is a Mongoose model for a food item.
 import mongoose from "mongoose";
 
 const foodSchema = new mongoose.Schema({
